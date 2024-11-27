@@ -18,6 +18,8 @@ public class GestionnaireNotes {
 
         // Calcul et affichage de la moyenne des notes
         double moyenne = calculerMoyenne(notes);
+        double moyenne = calculerMoyenne(notes);
+
         System.out.println("Moyenne : " + moyenne);
     }
 
